@@ -43,7 +43,7 @@ The project includes:
 ---
 
 ## 📈 Results
-- Achieved ~75–80% accuracy
+- Achieved 75.32% accuracy
 - Identified glucose and BMI as key predictive features
 
 ---
